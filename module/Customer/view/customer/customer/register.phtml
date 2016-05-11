@@ -1,0 +1,27 @@
+<div class="panel panel-default">
+    <div class="log-in">
+        <div class="row">
+            <?php
+                $register = $this->register;
+                $register->setAttribute('action', $this->url('customer', array('action' => 'register')));
+                $register->prepare();
+                echo $this->form()->openTag($register); ?>
+                <div class="col-lg-6">
+                    <?php
+                    echo $this->formRow($register->get('email')); ?><br><?php
+                    echo $this->formRow($register->get('password')); ?><br><?php
+                    echo $this->formRow($register->get('confirmpassword')); ?><br>
+                </div>
+                <div class="col-lg-6">
+                    <?php
+                    echo $this->formRow($register->get('company_name')); ?><br><?php
+                    echo $this->formRow($register->get('first_name')); ?><br><?php
+                    echo $this->formRow($register->get('last_name')); ?><br><?php
+                    echo $this->formSubmit($register->get('submit'));
+                    echo $this->form()->closeTag(); ?>
+                </div>
+                <?php
+            ?>
+        </div>
+    </div>
+</div>

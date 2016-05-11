@@ -1,0 +1,2741 @@
+
+[2013-09-12 15:09:07.5891] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:07.5891] Start in Index.php
+[2013-09-12 15:09:07.5891] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:07.7891] End of Index.php
+[2013-09-12 15:09:07.7892] Finishing log sequence (Using 9.74MB now, peaked at 10.72MB)
+
+[2013-09-12 15:09:10.1753] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:10.1753] Start in Index.php
+[2013-09-12 15:09:10.1753] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:10.2725] End of Index.php
+[2013-09-12 15:09:10.2726] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+
+
+
+
+
+[2013-09-12 15:09:14.1999] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:14.1999] Start in Index.php
+[2013-09-12 15:09:14.1999] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:14.305] End of Index.php
+[2013-09-12 15:09:14.305] Finishing log sequence (Using 9.65MB now, peaked at 10.62MB)
+
+[2013-09-12 15:09:16.6743] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:16.6744] Start in Index.php
+[2013-09-12 15:09:16.6744] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:16.7624] End of Index.php
+[2013-09-12 15:09:16.7625] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+
+
+
+
+
+[2013-09-12 15:09:23.195] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:23.195] Start in Index.php
+[2013-09-12 15:09:23.195] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:23.2984] End of Index.php
+[2013-09-12 15:09:23.2985] Finishing log sequence (Using 9.65MB now, peaked at 10.62MB)
+
+[2013-09-12 15:09:25.3704] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:25.3704] Start in Index.php
+[2013-09-12 15:09:25.3704] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:25.4715] End of Index.php
+[2013-09-12 15:09:25.4716] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+
+
+
+
+[2013-09-12 15:09:29.2951] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:29.2952] Start in Index.php
+[2013-09-12 15:09:29.2952] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:29.3948] End of Index.php
+[2013-09-12 15:09:29.395] Finishing log sequence (Using 9.65MB now, peaked at 10.62MB)
+
+[2013-09-12 15:09:31.5743] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:09:31.5743] Start in Index.php
+[2013-09-12 15:09:31.5743] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:09:31.6633] End of Index.php
+[2013-09-12 15:09:31.6633] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+[2013-09-12 15:48:05.0607] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:48:05.0608] Start in Index.php
+[2013-09-12 15:48:05.0608] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:48:06.1246] End of Index.php
+[2013-09-12 15:48:06.1246] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 15:48:07.4359] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 15:48:07.4359] Start in Index.php
+[2013-09-12 15:48:07.436] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 15:48:07.6325] End of Index.php
+[2013-09-12 15:48:07.6326] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 15:48:07.6718] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 15:48:07.6718] Start in Index.php
+[2013-09-12 15:48:07.6718] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 15:48:07.765] End of Index.php
+[2013-09-12 15:48:07.765] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 15:48:07.8527] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:48:07.8527] Start in Index.php
+[2013-09-12 15:48:07.8527] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:48:07.853] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:48:07.8531] Start in Index.php
+[2013-09-12 15:48:07.8531] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:48:07.9331] End of Index.php
+[2013-09-12 15:48:07.9331] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 15:48:07.9336] End of Index.php
+[2013-09-12 15:48:07.9336] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 15:48:10.0354] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:48:10.0354] Start in Index.php
+[2013-09-12 15:48:10.0354] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:48:10.1626] End of Index.php
+[2013-09-12 15:48:10.1626] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 15:53:07.5517] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:53:07.5517] Start in Index.php
+[2013-09-12 15:53:07.5517] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:53:07.6821] End of Index.php
+[2013-09-12 15:53:07.6821] Finishing log sequence (Using 9.83MB now, peaked at 10.60MB)
+
+[2013-09-12 15:53:11.5703] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:53:11.5704] Start in Index.php
+[2013-09-12 15:53:11.5704] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:53:11.6729] End of Index.php
+[2013-09-12 15:53:11.673] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 15:54:25.6102] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:54:25.6103] Start in Index.php
+[2013-09-12 15:54:25.6103] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 15:54:25.8132] End of Index.php
+[2013-09-12 15:54:25.8133] Finishing log sequence (Using 12.22MB now, peaked at 12.82MB)
+
+[2013-09-12 15:54:26.6548] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 15:54:26.6549] Start in Index.php
+[2013-09-12 15:54:26.6549] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 15:54:26.6729] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:54:26.673] Start in Index.php
+[2013-09-12 15:54:26.673] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:54:26.6777] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:54:26.6777] Start in Index.php
+[2013-09-12 15:54:26.6778] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:54:26.7225] End of Index.php
+[2013-09-12 15:54:26.7225] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 15:54:26.7575] End of Index.php
+[2013-09-12 15:54:26.7575] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 15:54:26.7647] End of Index.php
+[2013-09-12 15:54:26.7647] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 15:54:26.8248] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 15:54:26.8249] Start in Index.php
+[2013-09-12 15:54:26.8249] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 15:54:26.8966] End of Index.php
+[2013-09-12 15:54:26.8966] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 15:54:28.6804] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:54:28.6804] Start in Index.php
+[2013-09-12 15:54:28.6804] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:54:28.7802] End of Index.php
+[2013-09-12 15:54:28.7803] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 15:57:59.7738] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:57:59.7738] Start in Index.php
+[2013-09-12 15:57:59.7739] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 15:57:59.946] End of Index.php
+[2013-09-12 15:57:59.946] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 15:58:00.4265] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:58:00.4266] Start in Index.php
+[2013-09-12 15:58:00.4266] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 15:58:00.5111] End of Index.php
+[2013-09-12 15:58:00.5111] Finishing log sequence (Using 8.87MB now, peaked at 9.33MB)
+
+[2013-09-12 15:58:00.8235] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 15:58:00.8236] Start in Index.php
+[2013-09-12 15:58:00.8236] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 15:58:00.8891] End of Index.php
+[2013-09-12 15:58:00.8891] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 15:58:00.9055] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:58:00.9056] Start in Index.php
+[2013-09-12 15:58:00.9056] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:58:00.9077] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:58:00.9078] Start in Index.php
+[2013-09-12 15:58:00.9078] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 15:58:00.9844] End of Index.php
+[2013-09-12 15:58:00.9845] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 15:58:00.986] End of Index.php
+[2013-09-12 15:58:00.986] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 15:58:01.0921] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 15:58:01.0922] Start in Index.php
+[2013-09-12 15:58:01.0922] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 15:58:01.1591] End of Index.php
+[2013-09-12 15:58:01.1592] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 15:58:04.7769] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 15:58:04.7769] Start in Index.php
+[2013-09-12 15:58:04.7769] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:00:41.5227] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:00:41.5227] Start in Index.php
+[2013-09-12 16:00:41.5227] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:00:41.6236] End of Index.php
+[2013-09-12 16:00:41.6236] Finishing log sequence (Using 9.84MB now, peaked at 10.61MB)
+
+[2013-09-12 16:00:45.0853] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:00:45.0853] Start in Index.php
+[2013-09-12 16:00:45.0853] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:00:45.1804] End of Index.php
+[2013-09-12 16:00:45.1804] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:02:02.3092] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:02:02.3093] Start in Index.php
+[2013-09-12 16:02:02.3093] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:02:02.4142] End of Index.php
+[2013-09-12 16:02:02.4143] Finishing log sequence (Using 9.84MB now, peaked at 10.61MB)
+
+[2013-09-12 16:02:04.8055] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:02:04.8055] Start in Index.php
+[2013-09-12 16:02:04.8056] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:02:04.9083] End of Index.php
+[2013-09-12 16:02:04.9084] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:03:27.1673] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:03:27.1673] Start in Index.php
+[2013-09-12 16:03:27.1674] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:03:27.2676] End of Index.php
+[2013-09-12 16:03:27.2676] Finishing log sequence (Using 9.84MB now, peaked at 10.61MB)
+
+[2013-09-12 16:03:30.3396] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:03:30.3396] Start in Index.php
+[2013-09-12 16:03:30.3396] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:03:30.4557] End of Index.php
+[2013-09-12 16:03:30.4558] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:12:31.6355] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:12:31.6356] Start in Index.php
+[2013-09-12 16:12:31.6356] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:12:31.7405] End of Index.php
+[2013-09-12 16:12:31.7406] Finishing log sequence (Using 9.88MB now, peaked at 10.64MB)
+
+[2013-09-12 16:12:35.1884] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:12:35.1885] Start in Index.php
+[2013-09-12 16:12:35.1885] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:12:35.2924] End of Index.php
+[2013-09-12 16:12:35.2924] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:14:58.1068] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:14:58.1069] Start in Index.php
+[2013-09-12 16:14:58.1069] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:14:58.2023] End of Index.php
+[2013-09-12 16:14:58.2024] Finishing log sequence (Using 9.88MB now, peaked at 10.64MB)
+
+[2013-09-12 16:15:01.2988] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:15:01.2988] Start in Index.php
+[2013-09-12 16:15:01.2988] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:15:01.4047] End of Index.php
+[2013-09-12 16:15:01.4047] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:17:20.2231] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:17:20.2231] Start in Index.php
+[2013-09-12 16:17:20.2232] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:17:20.3312] End of Index.php
+[2013-09-12 16:17:20.3313] Finishing log sequence (Using 9.94MB now, peaked at 10.69MB)
+
+[2013-09-12 16:17:23.329] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:17:23.329] Start in Index.php
+[2013-09-12 16:17:23.329] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:17:23.428] End of Index.php
+[2013-09-12 16:17:23.4281] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:18:08.1181] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:18:08.1181] Start in Index.php
+[2013-09-12 16:18:08.1181] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:18:08.2132] End of Index.php
+[2013-09-12 16:18:08.2133] Finishing log sequence (Using 9.94MB now, peaked at 10.69MB)
+
+[2013-09-12 16:18:11.2961] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:18:11.2961] Start in Index.php
+[2013-09-12 16:18:11.2962] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:18:11.4007] End of Index.php
+[2013-09-12 16:18:11.4008] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:18:36.5396] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:18:36.5396] Start in Index.php
+[2013-09-12 16:18:36.5396] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:18:36.6461] End of Index.php
+[2013-09-12 16:18:36.6462] Finishing log sequence (Using 9.94MB now, peaked at 10.68MB)
+
+[2013-09-12 16:18:39.5032] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:18:39.5033] Start in Index.php
+[2013-09-12 16:18:39.5033] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:18:39.6011] End of Index.php
+[2013-09-12 16:18:39.6011] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:28:27.5786] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:28:27.5787] Start in Index.php
+[2013-09-12 16:28:27.5787] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:28:27.6978] End of Index.php
+[2013-09-12 16:28:27.6979] Finishing log sequence (Using 9.88MB now, peaked at 10.64MB)
+
+[2013-09-12 16:28:31.2169] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:28:31.2169] Start in Index.php
+[2013-09-12 16:28:31.2169] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:28:31.3082] End of Index.php
+[2013-09-12 16:28:31.3083] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:28:35.6902] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:28:35.6903] Start in Index.php
+[2013-09-12 16:28:35.6903] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:28:35.798] End of Index.php
+[2013-09-12 16:28:35.7981] Finishing log sequence (Using 9.88MB now, peaked at 10.64MB)
+
+[2013-09-12 16:28:38.1155] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:28:38.1155] Start in Index.php
+[2013-09-12 16:28:38.1156] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:28:38.2202] End of Index.php
+[2013-09-12 16:28:38.2203] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:35:07.7404] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:35:07.7404] Start in Index.php
+[2013-09-12 16:35:07.7404] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:35:07.8433] End of Index.php
+[2013-09-12 16:35:07.8434] Finishing log sequence (Using 9.86MB now, peaked at 10.63MB)
+
+[2013-09-12 16:35:10.9207] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:35:10.9208] Start in Index.php
+[2013-09-12 16:35:10.9208] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:35:11.0278] End of Index.php
+[2013-09-12 16:35:11.0278] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:35:14.5593] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:35:14.5594] Start in Index.php
+[2013-09-12 16:35:14.5594] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:35:14.6645] End of Index.php
+[2013-09-12 16:35:14.6646] Finishing log sequence (Using 9.83MB now, peaked at 10.61MB)
+
+[2013-09-12 16:35:17.4038] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:35:17.4039] Start in Index.php
+[2013-09-12 16:35:17.4039] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:35:17.5087] End of Index.php
+[2013-09-12 16:35:17.5087] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:36:31.8316] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:36:31.8316] Start in Index.php
+[2013-09-12 16:36:31.8317] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:36:31.9441] End of Index.php
+[2013-09-12 16:36:31.9441] Finishing log sequence (Using 9.83MB now, peaked at 10.61MB)
+
+[2013-09-12 16:36:34.9337] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:36:34.9337] Start in Index.php
+[2013-09-12 16:36:34.9338] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:36:35.0282] End of Index.php
+[2013-09-12 16:36:35.0283] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:36:40.707] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:36:40.7071] Start in Index.php
+[2013-09-12 16:36:40.7071] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:36:40.8054] End of Index.php
+[2013-09-12 16:36:40.8054] Finishing log sequence (Using 9.83MB now, peaked at 10.61MB)
+
+[2013-09-12 16:36:43.4049] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:36:43.4049] Start in Index.php
+[2013-09-12 16:36:43.4049] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:36:43.5026] End of Index.php
+[2013-09-12 16:36:43.5027] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:36:49.288] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:36:49.2881] Start in Index.php
+[2013-09-12 16:36:49.2881] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:36:49.3402] End of Index.php
+[2013-09-12 16:36:49.3403] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 16:36:49.454] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:36:49.454] Start in Index.php
+[2013-09-12 16:36:49.4541] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:36:49.5562] End of Index.php
+[2013-09-12 16:36:49.5563] Finishing log sequence (Using 9.90MB now, peaked at 10.67MB)
+
+[2013-09-12 16:36:51.9129] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:36:51.9129] Start in Index.php
+[2013-09-12 16:36:51.913] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:36:52.0077] End of Index.php
+[2013-09-12 16:36:52.0078] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 16:37:53.2453] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:37:53.2453] Start in Index.php
+[2013-09-12 16:37:53.2453] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:37:53.4232] End of Index.php
+[2013-09-12 16:37:53.4232] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 16:37:53.6642] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:37:53.6642] Start in Index.php
+[2013-09-12 16:37:53.6642] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:37:53.7486] End of Index.php
+[2013-09-12 16:37:53.7487] Finishing log sequence (Using 8.87MB now, peaked at 9.33MB)
+
+[2013-09-12 16:37:54.1444] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 16:37:54.1444] Start in Index.php
+[2013-09-12 16:37:54.1445] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 16:37:54.1594] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:37:54.1594] Start in Index.php
+[2013-09-12 16:37:54.1594] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:37:54.1616] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:37:54.1616] Start in Index.php
+[2013-09-12 16:37:54.1617] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:37:54.2176] End of Index.php
+[2013-09-12 16:37:54.2177] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 16:37:54.2426] End of Index.php
+[2013-09-12 16:37:54.2427] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 16:37:54.2491] End of Index.php
+[2013-09-12 16:37:54.2492] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 16:37:54.3342] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 16:37:54.3343] Start in Index.php
+[2013-09-12 16:37:54.3343] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:37:54.4031] End of Index.php
+[2013-09-12 16:37:54.4032] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 16:37:56.0511] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:37:56.0511] Start in Index.php
+[2013-09-12 16:37:56.0512] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:37:56.1597] End of Index.php
+[2013-09-12 16:37:56.1597] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:38:12.4848] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:38:12.4849] Start in Index.php
+[2013-09-12 16:38:12.4849] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:38:12.6539] End of Index.php
+[2013-09-12 16:38:12.654] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 16:38:13.4641] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 16:38:13.4641] Start in Index.php
+[2013-09-12 16:38:13.4641] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 16:38:13.4781] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:38:13.4782] Start in Index.php
+[2013-09-12 16:38:13.4782] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:38:13.4791] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:38:13.4791] Start in Index.php
+[2013-09-12 16:38:13.4791] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:38:13.5317] End of Index.php
+[2013-09-12 16:38:13.5317] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 16:38:13.56] End of Index.php
+[2013-09-12 16:38:13.56] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 16:38:13.5611] End of Index.php
+[2013-09-12 16:38:13.5612] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 16:38:13.5902] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 16:38:13.5902] Start in Index.php
+[2013-09-12 16:38:13.5902] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:38:13.6489] End of Index.php
+[2013-09-12 16:38:13.649] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 16:38:15.0609] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:38:15.0609] Start in Index.php
+[2013-09-12 16:38:15.0609] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:38:15.1686] End of Index.php
+[2013-09-12 16:38:15.1686] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:39:05.022] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:05.022] Start in Index.php
+[2013-09-12 16:39:05.0221] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:39:05.1993] End of Index.php
+[2013-09-12 16:39:05.1993] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 16:39:05.6881] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:05.6882] Start in Index.php
+[2013-09-12 16:39:05.6882] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:39:05.7722] End of Index.php
+[2013-09-12 16:39:05.7723] Finishing log sequence (Using 8.87MB now, peaked at 9.33MB)
+
+[2013-09-12 16:39:05.9403] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 16:39:05.9403] Start in Index.php
+[2013-09-12 16:39:05.9403] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 16:39:05.985] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:05.9851] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:05.9851] Start in Index.php
+[2013-09-12 16:39:05.9851] Start in Index.php
+[2013-09-12 16:39:05.9852] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+[2013-09-12 16:39:05.9852] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+
+[2013-09-12 16:39:06.0054] End of Index.php
+[2013-09-12 16:39:06.0055] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 16:39:06.0654] End of Index.php
+[2013-09-12 16:39:06.0654] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 16:39:06.0665] End of Index.php
+[2013-09-12 16:39:06.0666] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 16:39:06.2278] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 16:39:06.2278] Start in Index.php
+[2013-09-12 16:39:06.2278] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:39:06.2953] End of Index.php
+[2013-09-12 16:39:06.2953] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 16:39:08.0561] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:08.0561] Start in Index.php
+[2013-09-12 16:39:08.0561] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:39:08.1469] End of Index.php
+[2013-09-12 16:39:08.1469] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:39:13.3131] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:13.3131] Start in Index.php
+[2013-09-12 16:39:13.3131] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:39:13.4762] End of Index.php
+[2013-09-12 16:39:13.4762] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 16:39:13.9959] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 16:39:13.9959] Start in Index.php
+[2013-09-12 16:39:13.9959] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:39:14.0772] End of Index.php
+[2013-09-12 16:39:14.0773] Finishing log sequence (Using 8.87MB now, peaked at 9.37MB)
+
+[2013-09-12 16:39:15.1821] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 16:39:15.1822] Start in Index.php
+[2013-09-12 16:39:15.1822] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 16:39:15.2591] End of Index.php
+[2013-09-12 16:39:15.2592] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 16:39:15.3218] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 16:39:15.3219] Start in Index.php
+[2013-09-12 16:39:15.3219] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:39:15.3826] End of Index.php
+[2013-09-12 16:39:15.3826] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 16:39:19.0391] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:19.0391] Start in Index.php
+[2013-09-12 16:39:19.0391] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:39:19.0399] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:19.04] Start in Index.php
+[2013-09-12 16:39:19.04] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:39:19.1265] End of Index.php
+[2013-09-12 16:39:19.1265] End of Index.php
+[2013-09-12 16:39:19.1265] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+[2013-09-12 16:39:19.1265] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+
+[2013-09-12 16:39:19.1819] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:39:19.182] Start in Index.php
+[2013-09-12 16:39:19.182] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:39:19.2968] End of Index.php
+[2013-09-12 16:39:19.2968] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:40:12.1418] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:40:12.1419] Start in Index.php
+[2013-09-12 16:40:12.1419] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:40:12.2548] End of Index.php
+[2013-09-12 16:40:12.2548] Finishing log sequence (Using 9.83MB now, peaked at 10.61MB)
+
+[2013-09-12 16:40:14.6533] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:40:14.6534] Start in Index.php
+[2013-09-12 16:40:14.6534] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:40:14.7603] End of Index.php
+[2013-09-12 16:40:14.7604] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:43:16.8683] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:43:16.8684] Start in Index.php
+[2013-09-12 16:43:16.8684] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:43:16.9723] End of Index.php
+[2013-09-12 16:43:16.9723] Finishing log sequence (Using 9.83MB now, peaked at 10.61MB)
+
+[2013-09-12 16:43:19.8595] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:43:19.8595] Start in Index.php
+[2013-09-12 16:43:19.8595] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:43:19.9564] End of Index.php
+[2013-09-12 16:43:19.9564] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:43:28.4081] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:43:28.4081] Start in Index.php
+[2013-09-12 16:43:28.4081] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:43:28.4606] End of Index.php
+[2013-09-12 16:43:28.4607] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 16:43:28.5128] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:43:28.5128] Start in Index.php
+[2013-09-12 16:43:28.5128] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:43:28.6064] End of Index.php
+[2013-09-12 16:43:28.6064] Finishing log sequence (Using 8.84MB now, peaked at 9.62MB)
+
+[2013-09-12 16:43:30.7468] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:43:30.7468] Start in Index.php
+[2013-09-12 16:43:30.7469] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:43:30.841] End of Index.php
+[2013-09-12 16:43:30.841] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+[2013-09-12 16:44:09.9407] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:44:09.9407] Start in Index.php
+[2013-09-12 16:44:09.9407] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:44:10.1158] End of Index.php
+[2013-09-12 16:44:10.1158] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 16:44:10.6982] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:44:10.6983] Start in Index.php
+[2013-09-12 16:44:10.6983] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:44:10.8046] End of Index.php
+[2013-09-12 16:44:10.8046] Finishing log sequence (Using 8.87MB now, peaked at 9.33MB)
+
+[2013-09-12 16:44:11.2099] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 16:44:11.2099] Start in Index.php
+[2013-09-12 16:44:11.2099] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 16:44:11.263] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:44:11.263] Start in Index.php
+[2013-09-12 16:44:11.263] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:44:11.2631] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:44:11.2631] Start in Index.php
+[2013-09-12 16:44:11.2631] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:44:11.2811] End of Index.php
+[2013-09-12 16:44:11.2812] Finishing log sequence (Using 6.63MB now, peaked at 7.03MB)
+
+[2013-09-12 16:44:11.3445] End of Index.php
+[2013-09-12 16:44:11.3445] End of Index.php
+[2013-09-12 16:44:11.3445] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+[2013-09-12 16:44:11.3445] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+
+[2013-09-12 16:44:11.484] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 16:44:11.4841] Start in Index.php
+[2013-09-12 16:44:11.4841] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:44:11.5503] End of Index.php
+[2013-09-12 16:44:11.5503] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 16:44:13.2723] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:44:13.2723] Start in Index.php
+[2013-09-12 16:44:13.2723] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:44:13.3791] End of Index.php
+[2013-09-12 16:44:13.3791] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:51:05.7138] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:51:05.7138] Start in Index.php
+[2013-09-12 16:51:05.7139] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:51:05.8094] End of Index.php
+[2013-09-12 16:51:05.8094] Finishing log sequence (Using 9.61MB now, peaked at 10.58MB)
+
+[2013-09-12 16:51:08.6617] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:51:08.6617] Start in Index.php
+[2013-09-12 16:51:08.6618] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:51:08.7616] End of Index.php
+[2013-09-12 16:51:08.7617] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:51:16.8521] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:51:16.8521] Start in Index.php
+[2013-09-12 16:51:16.8521] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:51:16.9522] End of Index.php
+[2013-09-12 16:51:16.9522] Finishing log sequence (Using 9.83MB now, peaked at 10.61MB)
+
+[2013-09-12 16:51:19.0959] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:51:19.0959] Start in Index.php
+[2013-09-12 16:51:19.0959] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:51:19.2019] End of Index.php
+[2013-09-12 16:51:19.2019] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 16:52:54.7456] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:52:54.7456] Start in Index.php
+[2013-09-12 16:52:54.7456] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:52:54.7976] End of Index.php
+[2013-09-12 16:52:54.7976] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 16:52:54.8398] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:52:54.8398] Start in Index.php
+[2013-09-12 16:52:54.8399] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:52:54.9424] End of Index.php
+[2013-09-12 16:52:54.9424] Finishing log sequence (Using 8.84MB now, peaked at 9.62MB)
+
+[2013-09-12 16:52:57.4715] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:52:57.4715] Start in Index.php
+[2013-09-12 16:52:57.4715] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:52:57.5602] End of Index.php
+[2013-09-12 16:52:57.5603] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+[2013-09-12 16:53:05.2052] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:53:05.2053] Start in Index.php
+[2013-09-12 16:53:05.2053] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:53:05.3184] End of Index.php
+[2013-09-12 16:53:05.3185] Finishing log sequence (Using 9.91MB now, peaked at 10.69MB)
+
+[2013-09-12 16:53:07.3646] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:53:07.3647] Start in Index.php
+[2013-09-12 16:53:07.3648] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:53:07.484] End of Index.php
+[2013-09-12 16:53:07.4841] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 16:55:07.4327] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:55:07.4328] Start in Index.php
+[2013-09-12 16:55:07.4328] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:55:07.5235] End of Index.php
+[2013-09-12 16:55:07.5236] Finishing log sequence (Using 9.61MB now, peaked at 10.58MB)
+
+[2013-09-12 16:55:11.0747] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:55:11.0748] Start in Index.php
+[2013-09-12 16:55:11.0749] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:55:11.1733] End of Index.php
+[2013-09-12 16:55:11.1733] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+[2013-09-12 16:56:01.4329] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:56:01.433] Start in Index.php
+[2013-09-12 16:56:01.433] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:56:01.5236] End of Index.php
+[2013-09-12 16:56:01.5236] Finishing log sequence (Using 9.61MB now, peaked at 10.58MB)
+
+[2013-09-12 16:56:04.7788] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:56:04.7789] Start in Index.php
+[2013-09-12 16:56:04.7789] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:56:04.8718] End of Index.php
+[2013-09-12 16:56:04.8718] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+[2013-09-12 16:56:53.2791] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:56:53.2792] Start in Index.php
+[2013-09-12 16:56:53.2792] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 16:56:53.3736] End of Index.php
+[2013-09-12 16:56:53.3737] Finishing log sequence (Using 8.85MB now, peaked at 9.63MB)
+
+[2013-09-12 16:56:56.6747] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:56:56.6748] Start in Index.php
+[2013-09-12 16:56:56.6748] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:56:56.7708] End of Index.php
+[2013-09-12 16:56:56.7708] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+[2013-09-12 16:57:03.3749] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:57:03.375] Start in Index.php
+[2013-09-12 16:57:03.375] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:57:03.4752] End of Index.php
+[2013-09-12 16:57:03.4753] Finishing log sequence (Using 8.85MB now, peaked at 9.63MB)
+
+[2013-09-12 16:57:05.8995] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 16:57:05.8996] Start in Index.php
+[2013-09-12 16:57:05.8996] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 16:57:05.9835] End of Index.php
+[2013-09-12 16:57:05.9835] Finishing log sequence (Using 8.21MB now, peaked at 9.08MB)
+
+[2013-09-12 17:51:01.151] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 17:51:01.151] Start in Index.php
+[2013-09-12 17:51:01.151] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 17:51:01.2626] End of Index.php
+[2013-09-12 17:51:01.2626] Finishing log sequence (Using 9.90MB now, peaked at 10.88MB)
+
+[2013-09-12 17:51:04.7399] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 17:51:04.74] Start in Index.php
+[2013-09-12 17:51:04.74] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 17:51:04.8382] End of Index.php
+[2013-09-12 17:51:04.8383] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:13:12.1863] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:13:12.1863] Start in Index.php
+[2013-09-12 18:13:12.1864] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:13:12.2883] End of Index.php
+[2013-09-12 18:13:12.2883] Finishing log sequence (Using 9.90MB now, peaked at 10.88MB)
+
+[2013-09-12 18:13:15.2442] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:13:15.2442] Start in Index.php
+[2013-09-12 18:13:15.2443] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:13:15.326] End of Index.php
+[2013-09-12 18:13:15.3261] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:13:49.9723] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:13:49.9724] Start in Index.php
+[2013-09-12 18:13:49.9724] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:13:50.0862] End of Index.php
+[2013-09-12 18:13:50.0862] Finishing log sequence (Using 9.90MB now, peaked at 10.88MB)
+
+[2013-09-12 18:13:52.5396] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:13:52.5397] Start in Index.php
+[2013-09-12 18:13:52.5397] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:13:52.6291] End of Index.php
+[2013-09-12 18:13:52.6291] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:14:37.8516] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:14:37.8516] Start in Index.php
+[2013-09-12 18:14:37.8517] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:14:37.9574] End of Index.php
+[2013-09-12 18:14:37.9574] Finishing log sequence (Using 9.90MB now, peaked at 10.88MB)
+
+[2013-09-12 18:14:40.5363] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:14:40.5363] Start in Index.php
+[2013-09-12 18:14:40.5363] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:14:40.6324] End of Index.php
+[2013-09-12 18:14:40.6324] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:15:19.8242] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:15:19.8242] Start in Index.php
+[2013-09-12 18:15:19.8243] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:15:19.9279] End of Index.php
+[2013-09-12 18:15:19.928] Finishing log sequence (Using 9.91MB now, peaked at 10.89MB)
+
+[2013-09-12 18:15:23.0282] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:15:23.0283] Start in Index.php
+[2013-09-12 18:15:23.0283] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:15:23.1325] End of Index.php
+[2013-09-12 18:15:23.1326] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:15:39.5784] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:15:39.5784] Start in Index.php
+[2013-09-12 18:15:39.5784] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:15:39.687] End of Index.php
+[2013-09-12 18:15:39.687] Finishing log sequence (Using 9.99MB now, peaked at 10.77MB)
+
+[2013-09-12 18:15:42.3479] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:15:42.348] Start in Index.php
+[2013-09-12 18:15:42.348] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:15:42.4525] End of Index.php
+[2013-09-12 18:15:42.4525] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 18:15:50.5853] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:15:50.5853] Start in Index.php
+[2013-09-12 18:15:50.5853] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:15:50.692] End of Index.php
+[2013-09-12 18:15:50.692] Finishing log sequence (Using 9.90MB now, peaked at 10.68MB)
+
+[2013-09-12 18:15:53.2435] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:15:53.2436] Start in Index.php
+[2013-09-12 18:15:53.2436] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:15:53.3309] End of Index.php
+[2013-09-12 18:15:53.3309] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:17:03.6964] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:17:03.6965] Start in Index.php
+[2013-09-12 18:17:03.6965] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:17:03.8143] End of Index.php
+[2013-09-12 18:17:03.8144] Finishing log sequence (Using 9.90MB now, peaked at 10.68MB)
+
+[2013-09-12 18:17:06.336] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:17:06.336] Start in Index.php
+[2013-09-12 18:17:06.3361] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:17:06.4331] End of Index.php
+[2013-09-12 18:17:06.4332] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:17:21.0593] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:17:21.0594] Start in Index.php
+[2013-09-12 18:17:21.0594] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:17:21.1652] End of Index.php
+[2013-09-12 18:17:21.1652] Finishing log sequence (Using 9.90MB now, peaked at 10.68MB)
+
+[2013-09-12 18:17:24.1342] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:17:24.1342] Start in Index.php
+[2013-09-12 18:17:24.1342] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:17:24.2294] End of Index.php
+[2013-09-12 18:17:24.2294] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:17:38.7004] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:17:38.7005] Start in Index.php
+[2013-09-12 18:17:38.7005] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:17:38.8089] End of Index.php
+[2013-09-12 18:17:38.8089] Finishing log sequence (Using 9.90MB now, peaked at 10.68MB)
+
+[2013-09-12 18:17:41.7618] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:17:41.7618] Start in Index.php
+[2013-09-12 18:17:41.7618] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:17:41.8461] End of Index.php
+[2013-09-12 18:17:41.8462] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:18:03.5194] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:03.5195] Start in Index.php
+[2013-09-12 18:18:03.5195] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:18:03.6281] End of Index.php
+[2013-09-12 18:18:03.6282] Finishing log sequence (Using 9.90MB now, peaked at 10.68MB)
+
+[2013-09-12 18:18:06.8706] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:06.8706] Start in Index.php
+[2013-09-12 18:18:06.8706] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:18:06.9658] End of Index.php
+[2013-09-12 18:18:06.9658] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:18:09.0337] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:09.0337] Start in Index.php
+[2013-09-12 18:18:09.0337] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:18:09.1346] End of Index.php
+[2013-09-12 18:18:09.1346] Finishing log sequence (Using 9.90MB now, peaked at 10.68MB)
+
+[2013-09-12 18:18:11.0581] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:11.0582] Start in Index.php
+[2013-09-12 18:18:11.0582] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:18:11.1465] End of Index.php
+[2013-09-12 18:18:11.1465] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:18:30.4203] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:30.4203] Start in Index.php
+[2013-09-12 18:18:30.4203] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:18:30.5291] End of Index.php
+[2013-09-12 18:18:30.5291] Finishing log sequence (Using 9.90MB now, peaked at 10.68MB)
+
+[2013-09-12 18:18:33.4294] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:33.4295] Start in Index.php
+[2013-09-12 18:18:33.4295] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:18:33.5286] End of Index.php
+[2013-09-12 18:18:33.5286] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:18:37.5255] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:37.5255] Start in Index.php
+[2013-09-12 18:18:37.5255] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:18:37.6443] End of Index.php
+[2013-09-12 18:18:37.6444] Finishing log sequence (Using 9.98MB now, peaked at 10.75MB)
+
+[2013-09-12 18:18:39.7561] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:18:39.7561] Start in Index.php
+[2013-09-12 18:18:39.7561] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:18:39.8737] End of Index.php
+[2013-09-12 18:18:39.8738] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 18:20:01.9867] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:20:01.9868] Start in Index.php
+[2013-09-12 18:20:01.9868] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:20:15.8401] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:20:15.8401] Start in Index.php
+[2013-09-12 18:20:15.8401] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:20:26.1032] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:20:26.1032] Start in Index.php
+[2013-09-12 18:20:26.1033] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:20:27.1366] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:20:27.1366] Start in Index.php
+[2013-09-12 18:20:27.1367] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:20:48.8066] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:20:48.8067] Start in Index.php
+[2013-09-12 18:20:48.8067] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:20:49.968] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:20:49.9681] Start in Index.php
+[2013-09-12 18:20:49.9681] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:20:58.0315] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:20:58.0315] Start in Index.php
+[2013-09-12 18:20:58.0315] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:21:15.7453] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:21:15.7453] Start in Index.php
+[2013-09-12 18:21:15.7453] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:21:35.3403] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:21:35.3404] Start in Index.php
+[2013-09-12 18:21:35.3404] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:23:00.3826] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:23:00.3827] Start in Index.php
+[2013-09-12 18:23:00.3827] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:23:00.5062] End of Index.php
+[2013-09-12 18:23:00.5063] Finishing log sequence (Using 9.89MB now, peaked at 10.66MB)
+
+[2013-09-12 18:23:03.6409] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:23:03.6409] Start in Index.php
+[2013-09-12 18:23:03.6409] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:23:03.7315] End of Index.php
+[2013-09-12 18:23:03.7315] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:23:20.1371] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:23:20.1371] Start in Index.php
+[2013-09-12 18:23:20.1372] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:23:20.2363] End of Index.php
+[2013-09-12 18:23:20.2363] Finishing log sequence (Using 9.89MB now, peaked at 10.66MB)
+
+[2013-09-12 18:23:23.1601] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:23:23.1602] Start in Index.php
+[2013-09-12 18:23:23.1602] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:23:23.2595] End of Index.php
+[2013-09-12 18:23:23.2595] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:23:31.3952] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:23:31.3952] Start in Index.php
+[2013-09-12 18:23:31.3953] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:23:31.4423] End of Index.php
+[2013-09-12 18:23:31.4423] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:23:31.4894] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:23:31.4894] Start in Index.php
+[2013-09-12 18:23:31.4894] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:23:31.5845] End of Index.php
+[2013-09-12 18:23:31.5845] Finishing log sequence (Using 8.84MB now, peaked at 9.61MB)
+
+[2013-09-12 18:23:33.9392] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:23:33.9392] Start in Index.php
+[2013-09-12 18:23:33.9392] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:23:34.0324] End of Index.php
+[2013-09-12 18:23:34.0325] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:27:25.7135] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:25.7135] Start in Index.php
+[2013-09-12 18:27:25.7135] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:27:25.8152] End of Index.php
+[2013-09-12 18:27:25.8153] Finishing log sequence (Using 9.91MB now, peaked at 10.69MB)
+
+[2013-09-12 18:27:28.5388] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:28.5388] Start in Index.php
+[2013-09-12 18:27:28.5388] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:27:28.6462] End of Index.php
+[2013-09-12 18:27:28.6462] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 18:27:33.2759] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:33.2759] Start in Index.php
+[2013-09-12 18:27:33.276] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:27:33.3727] End of Index.php
+[2013-09-12 18:27:33.3727] Finishing log sequence (Using 8.83MB now, peaked at 9.61MB)
+
+[2013-09-12 18:27:35.8504] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:35.8504] Start in Index.php
+[2013-09-12 18:27:35.8505] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:27:35.9394] End of Index.php
+[2013-09-12 18:27:35.9394] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:27:38.2003] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:38.2004] Start in Index.php
+[2013-09-12 18:27:38.2004] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:27:38.3018] End of Index.php
+[2013-09-12 18:27:38.3018] Finishing log sequence (Using 8.83MB now, peaked at 9.61MB)
+
+[2013-09-12 18:27:40.1463] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:40.1463] Start in Index.php
+[2013-09-12 18:27:40.1463] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:27:40.2323] End of Index.php
+[2013-09-12 18:27:40.2323] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:27:54.2551] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:54.2552] Start in Index.php
+[2013-09-12 18:27:54.2552] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:27:54.3586] End of Index.php
+[2013-09-12 18:27:54.3587] Finishing log sequence (Using 8.83MB now, peaked at 9.61MB)
+
+[2013-09-12 18:27:57.8039] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:27:57.804] Start in Index.php
+[2013-09-12 18:27:57.804] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:27:57.896] End of Index.php
+[2013-09-12 18:27:57.896] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:28:03.1216] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:28:03.1217] Start in Index.php
+[2013-09-12 18:28:03.1217] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:28:03.2168] End of Index.php
+[2013-09-12 18:28:03.2169] Finishing log sequence (Using 8.83MB now, peaked at 9.61MB)
+
+[2013-09-12 18:28:05.7199] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:28:05.72] Start in Index.php
+[2013-09-12 18:28:05.72] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:28:05.8116] End of Index.php
+[2013-09-12 18:28:05.8117] Finishing log sequence (Using 8.21MB now, peaked at 9.09MB)
+
+[2013-09-12 18:28:14.6769] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 18:28:14.677] Start in Index.php
+[2013-09-12 18:28:14.677] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:28:14.7878] End of Index.php
+[2013-09-12 18:28:14.7878] Finishing log sequence (Using 9.89MB now, peaked at 10.67MB)
+
+[2013-09-12 18:28:17.1519] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:28:17.1519] Start in Index.php
+[2013-09-12 18:28:17.1519] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:28:17.2466] End of Index.php
+[2013-09-12 18:28:17.2467] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:28:18.4938] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:28:18.4939] Start in Index.php
+[2013-09-12 18:28:18.4939] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:28:18.5443] End of Index.php
+[2013-09-12 18:28:18.5444] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:28:18.5905] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:28:18.5905] Start in Index.php
+[2013-09-12 18:28:18.5905] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:28:18.6837] End of Index.php
+[2013-09-12 18:28:18.6838] Finishing log sequence (Using 8.84MB now, peaked at 9.61MB)
+
+[2013-09-12 18:28:20.8567] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:28:20.8567] Start in Index.php
+[2013-09-12 18:28:20.8567] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:28:20.9505] End of Index.php
+[2013-09-12 18:28:20.9505] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:29:07.4902] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:29:07.4903] Start in Index.php
+[2013-09-12 18:29:07.4903] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:29:07.6188] End of Index.php
+[2013-09-12 18:29:07.6188] Finishing log sequence (Using 9.92MB now, peaked at 10.69MB)
+
+[2013-09-12 18:29:10.4537] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:29:10.4538] Start in Index.php
+[2013-09-12 18:29:10.4538] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:29:10.5515] End of Index.php
+[2013-09-12 18:29:10.5515] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 18:29:45.2284] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:29:45.2284] Start in Index.php
+[2013-09-12 18:29:45.2284] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:29:45.3324] End of Index.php
+[2013-09-12 18:29:45.3324] Finishing log sequence (Using 9.84MB now, peaked at 10.61MB)
+
+[2013-09-12 18:29:48.2574] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:29:48.2575] Start in Index.php
+[2013-09-12 18:29:48.2575] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:29:48.3608] End of Index.php
+[2013-09-12 18:29:48.3609] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:29:51.7675] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:29:51.7675] Start in Index.php
+[2013-09-12 18:29:51.7675] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:29:51.8784] End of Index.php
+[2013-09-12 18:29:51.8785] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 18:29:54.7562] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:29:54.7562] Start in Index.php
+[2013-09-12 18:29:54.7562] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:29:54.8635] End of Index.php
+[2013-09-12 18:29:54.8636] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:30:43.553] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:43.553] Start in Index.php
+[2013-09-12 18:30:43.553] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:30:43.6052] End of Index.php
+[2013-09-12 18:30:43.6053] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:30:43.6711] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:43.6711] Start in Index.php
+[2013-09-12 18:30:43.6711] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:30:43.7786] End of Index.php
+[2013-09-12 18:30:43.7787] Finishing log sequence (Using 8.83MB now, peaked at 9.61MB)
+
+[2013-09-12 18:30:46.6146] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:46.6147] Start in Index.php
+[2013-09-12 18:30:46.6147] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:30:46.7087] End of Index.php
+[2013-09-12 18:30:46.7088] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:30:51.5531] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:51.5531] Start in Index.php
+[2013-09-12 18:30:51.5531] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:30:51.6621] End of Index.php
+[2013-09-12 18:30:51.6622] Finishing log sequence (Using 9.84MB now, peaked at 10.61MB)
+
+[2013-09-12 18:30:54.4533] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:54.4534] Start in Index.php
+[2013-09-12 18:30:54.4534] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:30:54.5529] End of Index.php
+[2013-09-12 18:30:54.553] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:30:56.4543] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:56.4543] Start in Index.php
+[2013-09-12 18:30:56.4543] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:30:56.5017] End of Index.php
+[2013-09-12 18:30:56.5017] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:30:56.5437] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:56.5437] Start in Index.php
+[2013-09-12 18:30:56.5438] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:30:56.6439] End of Index.php
+[2013-09-12 18:30:56.6439] Finishing log sequence (Using 8.83MB now, peaked at 9.61MB)
+
+[2013-09-12 18:30:58.8752] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:30:58.8753] Start in Index.php
+[2013-09-12 18:30:58.8753] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:30:58.9668] End of Index.php
+[2013-09-12 18:30:58.9669] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:31:19.9486] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:31:19.9486] Start in Index.php
+[2013-09-12 18:31:19.9486] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:31:20.0434] End of Index.php
+[2013-09-12 18:31:20.0434] Finishing log sequence (Using 8.83MB now, peaked at 9.61MB)
+
+[2013-09-12 18:31:22.84] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:31:22.84] Start in Index.php
+[2013-09-12 18:31:22.84] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:31:22.9343] End of Index.php
+[2013-09-12 18:31:22.9343] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:31:30.3722] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:31:30.3722] Start in Index.php
+[2013-09-12 18:31:30.3723] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:31:30.4894] End of Index.php
+[2013-09-12 18:31:30.4894] Finishing log sequence (Using 9.92MB now, peaked at 10.69MB)
+
+[2013-09-12 18:31:32.7599] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:31:32.7599] Start in Index.php
+[2013-09-12 18:31:32.7599] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:31:32.8678] End of Index.php
+[2013-09-12 18:31:32.8678] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 18:37:35.4729] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:37:35.4729] Start in Index.php
+[2013-09-12 18:37:35.4729] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:37:35.5834] End of Index.php
+[2013-09-12 18:37:35.5835] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 18:37:38.7504] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:37:38.7505] Start in Index.php
+[2013-09-12 18:37:38.7505] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:37:38.8571] End of Index.php
+[2013-09-12 18:37:38.8571] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:37:50.9432] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:37:50.9432] Start in Index.php
+[2013-09-12 18:37:50.9432] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:37:50.9954] End of Index.php
+[2013-09-12 18:37:50.9955] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:37:51.0392] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:37:51.0392] Start in Index.php
+[2013-09-12 18:37:51.0392] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:37:51.1327] End of Index.php
+[2013-09-12 18:37:51.1328] Finishing log sequence (Using 8.84MB now, peaked at 9.61MB)
+
+[2013-09-12 18:37:53.2922] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:37:53.2923] Start in Index.php
+[2013-09-12 18:37:53.2923] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:37:53.3831] End of Index.php
+[2013-09-12 18:37:53.3832] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:38:07.5892] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:38:07.5892] Start in Index.php
+[2013-09-12 18:38:07.5893] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:38:07.7052] End of Index.php
+[2013-09-12 18:38:07.7053] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 18:38:11.078] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:38:11.078] Start in Index.php
+[2013-09-12 18:38:11.078] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:38:11.1842] End of Index.php
+[2013-09-12 18:38:11.1842] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:41:52.0577] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:41:52.0577] Start in Index.php
+[2013-09-12 18:41:52.0577] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:41:52.1648] End of Index.php
+[2013-09-12 18:41:52.1649] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:41:55.2826] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:41:55.2827] Start in Index.php
+[2013-09-12 18:41:55.2827] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:41:55.3926] End of Index.php
+[2013-09-12 18:41:55.3927] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:42:05.1259] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:42:05.1259] Start in Index.php
+[2013-09-12 18:42:05.1259] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:42:05.1779] End of Index.php
+[2013-09-12 18:42:05.1779] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:42:05.2223] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:42:05.2224] Start in Index.php
+[2013-09-12 18:42:05.2224] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:42:05.3301] End of Index.php
+[2013-09-12 18:42:05.3301] Finishing log sequence (Using 9.93MB now, peaked at 10.70MB)
+
+[2013-09-12 18:42:08.1615] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:42:08.1615] Start in Index.php
+[2013-09-12 18:42:08.1615] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:42:08.2646] End of Index.php
+[2013-09-12 18:42:08.2647] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 18:43:05.3544] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:43:05.3544] Start in Index.php
+[2013-09-12 18:43:05.3544] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:43:05.4538] End of Index.php
+[2013-09-12 18:43:05.4539] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:43:08.5393] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:43:08.5394] Start in Index.php
+[2013-09-12 18:43:08.5394] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:43:08.6401] End of Index.php
+[2013-09-12 18:43:08.6402] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:43:19.1554] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:43:19.1554] Start in Index.php
+[2013-09-12 18:43:19.1554] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:43:19.261] End of Index.php
+[2013-09-12 18:43:19.2611] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:43:21.472] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:43:21.472] Start in Index.php
+[2013-09-12 18:43:21.472] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:43:21.5709] End of Index.php
+[2013-09-12 18:43:21.5709] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:43:33.5179] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:43:33.5179] Start in Index.php
+[2013-09-12 18:43:33.518] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:43:33.626] End of Index.php
+[2013-09-12 18:43:33.6261] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:43:36.3587] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:43:36.3587] Start in Index.php
+[2013-09-12 18:43:36.3587] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:43:36.4679] End of Index.php
+[2013-09-12 18:43:36.468] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:43:57.4321] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:43:57.4321] Start in Index.php
+[2013-09-12 18:43:57.4322] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:44:01.4071] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:01.4071] Start in Index.php
+[2013-09-12 18:44:01.4071] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:44:10.9133] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:10.9134] Start in Index.php
+[2013-09-12 18:44:10.9134] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:44:11.3473] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:11.3473] Start in Index.php
+[2013-09-12 18:44:11.3474] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:44:12.1928] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:12.1928] Start in Index.php
+[2013-09-12 18:44:12.1928] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:44:26.4264] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:26.4264] Start in Index.php
+[2013-09-12 18:44:26.4264] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:44:26.5357] End of Index.php
+[2013-09-12 18:44:26.5358] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:44:29.3756] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:29.3756] Start in Index.php
+[2013-09-12 18:44:29.3756] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:44:29.4819] End of Index.php
+[2013-09-12 18:44:29.4819] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:44:31.9319] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:31.932] Start in Index.php
+[2013-09-12 18:44:31.932] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:44:31.9833] End of Index.php
+[2013-09-12 18:44:31.9834] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:44:32.0401] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:32.0401] Start in Index.php
+[2013-09-12 18:44:32.0401] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:44:32.137] End of Index.php
+[2013-09-12 18:44:32.137] Finishing log sequence (Using 8.84MB now, peaked at 9.62MB)
+
+[2013-09-12 18:44:34.0726] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:34.0727] Start in Index.php
+[2013-09-12 18:44:34.0727] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:44:34.1767] End of Index.php
+[2013-09-12 18:44:34.1768] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:44:39.0269] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:44:39.0269] Start in Index.php
+[2013-09-12 18:44:39.0269] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:45:27.8141] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:45:27.8142] Start in Index.php
+[2013-09-12 18:45:27.8142] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:45:27.9152] End of Index.php
+[2013-09-12 18:45:27.9152] Finishing log sequence (Using 8.84MB now, peaked at 9.62MB)
+
+[2013-09-12 18:45:30.8673] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:45:30.8674] Start in Index.php
+[2013-09-12 18:45:30.8674] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:45:30.971] End of Index.php
+[2013-09-12 18:45:30.971] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:46:07.2475] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:07.2475] Start in Index.php
+[2013-09-12 18:46:07.2476] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:07.3459] End of Index.php
+[2013-09-12 18:46:07.3459] Finishing log sequence (Using 8.84MB now, peaked at 9.62MB)
+
+[2013-09-12 18:46:09.9644] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:09.9645] Start in Index.php
+[2013-09-12 18:46:09.9645] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:10.0529] End of Index.php
+[2013-09-12 18:46:10.0529] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:46:14.3444] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:14.3445] Start in Index.php
+[2013-09-12 18:46:14.3445] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:14.4576] End of Index.php
+[2013-09-12 18:46:14.4576] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:46:16.992] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:16.9921] Start in Index.php
+[2013-09-12 18:46:16.9921] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:17.1006] End of Index.php
+[2013-09-12 18:46:17.1007] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:46:20.2151] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:20.2152] Start in Index.php
+[2013-09-12 18:46:20.2152] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:20.2625] End of Index.php
+[2013-09-12 18:46:20.2626] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 18:46:20.3075] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:20.3075] Start in Index.php
+[2013-09-12 18:46:20.3076] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:20.4159] End of Index.php
+[2013-09-12 18:46:20.416] Finishing log sequence (Using 8.84MB now, peaked at 9.62MB)
+
+[2013-09-12 18:46:22.3704] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:22.3704] Start in Index.php
+[2013-09-12 18:46:22.3704] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:22.4601] End of Index.php
+[2013-09-12 18:46:22.4602] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 18:46:25.8038] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:25.8038] Start in Index.php
+[2013-09-12 18:46:25.8038] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:46:25.9084] End of Index.php
+[2013-09-12 18:46:25.9085] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:46:28.4697] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:46:28.4697] Start in Index.php
+[2013-09-12 18:46:28.4697] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:46:28.5651] End of Index.php
+[2013-09-12 18:46:28.5651] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:48:22.5867] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:48:22.5867] Start in Index.php
+[2013-09-12 18:48:22.5867] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:48:22.682] End of Index.php
+[2013-09-12 18:48:22.6821] Finishing log sequence (Using 9.89MB now, peaked at 10.66MB)
+
+[2013-09-12 18:48:25.7001] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:48:25.7002] Start in Index.php
+[2013-09-12 18:48:25.7002] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:48:25.7945] End of Index.php
+[2013-09-12 18:48:25.7946] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:48:42.243] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:48:42.243] Start in Index.php
+[2013-09-12 18:48:42.243] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:48:42.351] End of Index.php
+[2013-09-12 18:48:42.351] Finishing log sequence (Using 9.86MB now, peaked at 10.64MB)
+
+[2013-09-12 18:48:45.273] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:48:45.273] Start in Index.php
+[2013-09-12 18:48:45.2731] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:48:45.3757] End of Index.php
+[2013-09-12 18:48:45.3757] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 18:48:55.2524] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:48:55.2524] Start in Index.php
+[2013-09-12 18:48:55.2524] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:49:23.6798] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:49:23.6799] Start in Index.php
+[2013-09-12 18:49:23.6799] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 18:49:23.7851] End of Index.php
+[2013-09-12 18:49:23.7851] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 18:49:26.755] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 18:49:26.755] Start in Index.php
+[2013-09-12 18:49:26.755] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 18:49:26.8466] End of Index.php
+[2013-09-12 18:49:26.8466] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 19:47:14.4394] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:47:14.4394] Start in Index.php
+[2013-09-12 19:47:14.4394] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 19:47:14.5407] End of Index.php
+[2013-09-12 19:47:14.5407] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 19:47:17.5926] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:47:17.5927] Start in Index.php
+[2013-09-12 19:47:17.5927] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:47:17.6892] End of Index.php
+[2013-09-12 19:47:17.6893] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 19:47:18.9578] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:47:18.9578] Start in Index.php
+[2013-09-12 19:47:18.9579] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 19:47:19.0632] End of Index.php
+[2013-09-12 19:47:19.0632] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 19:47:21.2899] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:47:21.29] Start in Index.php
+[2013-09-12 19:47:21.29] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:47:21.3961] End of Index.php
+[2013-09-12 19:47:21.3962] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 19:47:48.3019] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:47:48.3019] Start in Index.php
+[2013-09-12 19:47:48.3019] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 19:47:48.4114] End of Index.php
+[2013-09-12 19:47:48.4114] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 19:47:51.3811] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:47:51.3812] Start in Index.php
+[2013-09-12 19:47:51.3812] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:47:51.4917] End of Index.php
+[2013-09-12 19:47:51.4917] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 19:48:15.6753] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:48:15.6753] Start in Index.php
+[2013-09-12 19:48:15.6753] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 19:48:15.7841] End of Index.php
+[2013-09-12 19:48:15.7841] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 19:48:18.7719] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:48:18.772] Start in Index.php
+[2013-09-12 19:48:18.772] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:48:18.8774] End of Index.php
+[2013-09-12 19:48:18.8774] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 19:49:19.6608] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:49:19.6608] Start in Index.php
+[2013-09-12 19:49:19.6608] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:49:19.7745] End of Index.php
+[2013-09-12 19:49:19.7745] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 19:49:22.675] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:49:22.675] Start in Index.php
+[2013-09-12 19:49:22.675] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:49:22.7759] End of Index.php
+[2013-09-12 19:49:22.7759] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 19:52:08.7023] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:52:08.7023] Start in Index.php
+[2013-09-12 19:52:08.7024] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 19:52:08.8118] End of Index.php
+[2013-09-12 19:52:08.8118] Finishing log sequence (Using 9.89MB now, peaked at 10.66MB)
+
+[2013-09-12 19:52:12.193] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:52:12.193] Start in Index.php
+[2013-09-12 19:52:12.193] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:52:12.299] End of Index.php
+[2013-09-12 19:52:12.299] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 19:53:52.6374] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:53:52.6375] Start in Index.php
+[2013-09-12 19:53:52.6375] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 19:53:52.743] End of Index.php
+[2013-09-12 19:53:52.743] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 19:53:55.6912] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 19:53:55.6913] Start in Index.php
+[2013-09-12 19:53:55.6913] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 19:53:55.7921] End of Index.php
+[2013-09-12 19:53:55.7921] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:00:35.3517] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:00:35.3517] Start in Index.php
+[2013-09-12 20:00:35.3517] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:00:35.4556] End of Index.php
+[2013-09-12 20:00:35.4556] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:00:38.6873] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:00:38.6873] Start in Index.php
+[2013-09-12 20:00:38.6873] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:00:38.7862] End of Index.php
+[2013-09-12 20:00:38.7862] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:00:52.7797] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:00:52.7797] Start in Index.php
+[2013-09-12 20:00:52.7797] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:00:52.8751] End of Index.php
+[2013-09-12 20:00:52.8752] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:00:55.7793] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:00:55.7794] Start in Index.php
+[2013-09-12 20:00:55.7794] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:00:55.8915] End of Index.php
+[2013-09-12 20:00:55.8915] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:07:15.9835] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:07:15.9836] Start in Index.php
+[2013-09-12 20:07:15.9836] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:07:16.0796] End of Index.php
+[2013-09-12 20:07:16.0796] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:07:19.5738] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:07:19.5739] Start in Index.php
+[2013-09-12 20:07:19.5739] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:07:19.6771] End of Index.php
+[2013-09-12 20:07:19.6772] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:07:21.455] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:07:21.455] Start in Index.php
+[2013-09-12 20:07:21.455] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:07:21.5558] End of Index.php
+[2013-09-12 20:07:21.5559] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:07:23.7862] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:07:23.7863] Start in Index.php
+[2013-09-12 20:07:23.7863] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:07:23.8857] End of Index.php
+[2013-09-12 20:07:23.8857] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:20:58.7519] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:20:58.7519] Start in Index.php
+[2013-09-12 20:20:58.7519] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:20:58.8625] End of Index.php
+[2013-09-12 20:20:58.8625] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:21:02.0756] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:21:02.0756] Start in Index.php
+[2013-09-12 20:21:02.0756] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:21:02.184] End of Index.php
+[2013-09-12 20:21:02.184] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:21:34.8157] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:21:34.8157] Start in Index.php
+[2013-09-12 20:21:34.8157] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:21:34.923] End of Index.php
+[2013-09-12 20:21:34.923] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:21:38.354] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:21:38.3541] Start in Index.php
+[2013-09-12 20:21:38.3541] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:21:38.4588] End of Index.php
+[2013-09-12 20:21:38.4588] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:22:24.7587] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:22:24.7588] Start in Index.php
+[2013-09-12 20:22:24.7588] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:22:24.8578] End of Index.php
+[2013-09-12 20:22:24.8578] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:22:28.0202] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:22:28.0203] Start in Index.php
+[2013-09-12 20:22:28.0203] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:22:28.1188] End of Index.php
+[2013-09-12 20:22:28.1189] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:22:51.9504] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:22:51.9504] Start in Index.php
+[2013-09-12 20:22:51.9504] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:22:52.057] End of Index.php
+[2013-09-12 20:22:52.0571] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:22:55.496] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:22:55.496] Start in Index.php
+[2013-09-12 20:22:55.496] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:22:55.5916] End of Index.php
+[2013-09-12 20:22:55.5916] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:27:00.9676] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:27:00.9676] Start in Index.php
+[2013-09-12 20:27:00.9676] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:27:01.0822] End of Index.php
+[2013-09-12 20:27:01.0823] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:27:04.3232] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:27:04.3232] Start in Index.php
+[2013-09-12 20:27:04.3232] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:27:04.4294] End of Index.php
+[2013-09-12 20:27:04.4294] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:27:38.6189] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:27:38.619] Start in Index.php
+[2013-09-12 20:27:38.619] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:27:38.7282] End of Index.php
+[2013-09-12 20:27:38.7282] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:27:42.0176] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:27:42.0177] Start in Index.php
+[2013-09-12 20:27:42.0177] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:27:42.1221] End of Index.php
+[2013-09-12 20:27:42.1221] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:28:18.1112] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:28:18.1112] Start in Index.php
+[2013-09-12 20:28:18.1113] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:28:18.22] End of Index.php
+[2013-09-12 20:28:18.2201] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:28:21.4716] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:28:21.4716] Start in Index.php
+[2013-09-12 20:28:21.4716] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:28:21.5764] End of Index.php
+[2013-09-12 20:28:21.5764] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:30:27.0146] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:30:27.0146] Start in Index.php
+[2013-09-12 20:30:27.0146] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:30:32.5011] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:30:32.5011] Start in Index.php
+[2013-09-12 20:30:32.5011] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:30:48.8468] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:30:48.8469] Start in Index.php
+[2013-09-12 20:30:48.8469] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:30:48.9512] End of Index.php
+[2013-09-12 20:30:48.9513] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:30:52.3239] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:30:52.324] Start in Index.php
+[2013-09-12 20:30:52.324] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:30:52.4393] End of Index.php
+[2013-09-12 20:30:52.4393] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:32:36.1329] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:32:36.133] Start in Index.php
+[2013-09-12 20:32:36.133] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:32:36.2355] End of Index.php
+[2013-09-12 20:32:36.2355] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:32:39.2058] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:32:39.2059] Start in Index.php
+[2013-09-12 20:32:39.2059] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:32:39.3023] End of Index.php
+[2013-09-12 20:32:39.3024] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:35:16.8195] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:35:16.8195] Start in Index.php
+[2013-09-12 20:35:16.8195] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:35:16.9225] End of Index.php
+[2013-09-12 20:35:16.9225] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 20:35:20.4105] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:35:20.4106] Start in Index.php
+[2013-09-12 20:35:20.4107] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:35:20.5171] End of Index.php
+[2013-09-12 20:35:20.5171] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:36:42.0501] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:36:42.0502] Start in Index.php
+[2013-09-12 20:36:42.0502] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:36:42.1464] End of Index.php
+[2013-09-12 20:36:42.1465] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 20:36:45.4895] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:36:45.4895] Start in Index.php
+[2013-09-12 20:36:45.4896] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:36:45.601] End of Index.php
+[2013-09-12 20:36:45.6011] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:38:36.8546] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:38:36.8547] Start in Index.php
+[2013-09-12 20:38:36.8547] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:38:36.9544] End of Index.php
+[2013-09-12 20:38:36.9544] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 20:38:40.1016] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:38:40.1017] Start in Index.php
+[2013-09-12 20:38:40.1017] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:38:40.2052] End of Index.php
+[2013-09-12 20:38:40.2053] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:39:32.8704] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:39:32.8704] Start in Index.php
+[2013-09-12 20:39:32.8705] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:39:32.9718] End of Index.php
+[2013-09-12 20:39:32.9719] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 20:39:36.1315] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:39:36.1315] Start in Index.php
+[2013-09-12 20:39:36.1315] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:39:36.224] End of Index.php
+[2013-09-12 20:39:36.224] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:39:55.62] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:39:55.6201] Start in Index.php
+[2013-09-12 20:39:55.6201] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:39:55.7232] End of Index.php
+[2013-09-12 20:39:55.7232] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 20:39:59.2427] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:39:59.2428] Start in Index.php
+[2013-09-12 20:39:59.2429] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:39:59.3539] End of Index.php
+[2013-09-12 20:39:59.3539] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:40:54.3718] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:40:54.3718] Start in Index.php
+[2013-09-12 20:40:54.3718] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:40:54.4757] End of Index.php
+[2013-09-12 20:40:54.4757] Finishing log sequence (Using 9.84MB now, peaked at 10.62MB)
+
+[2013-09-12 20:40:57.9186] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:40:57.9186] Start in Index.php
+[2013-09-12 20:40:57.9186] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:40:58.0321] End of Index.php
+[2013-09-12 20:40:58.0321] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:41:11.162] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:41:11.1621] Start in Index.php
+[2013-09-12 20:41:11.1621] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:41:14.5095] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:41:14.5096] Start in Index.php
+[2013-09-12 20:41:14.5096] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:41:14.6142] End of Index.php
+[2013-09-12 20:41:14.6142] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:41:17.7978] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:41:17.7978] Start in Index.php
+[2013-09-12 20:41:17.7978] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:41:17.9116] End of Index.php
+[2013-09-12 20:41:17.9116] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:42:55.4592] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:42:55.4592] Start in Index.php
+[2013-09-12 20:42:55.4592] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:42:55.5654] End of Index.php
+[2013-09-12 20:42:55.5655] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:42:58.8201] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:42:58.8202] Start in Index.php
+[2013-09-12 20:42:58.8202] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:42:58.9307] End of Index.php
+[2013-09-12 20:42:58.9307] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:43:00.5577] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:43:00.5577] Start in Index.php
+[2013-09-12 20:43:00.5578] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:43:00.6576] End of Index.php
+[2013-09-12 20:43:00.6576] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:43:03.307] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:43:03.307] Start in Index.php
+[2013-09-12 20:43:03.3071] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:43:03.4081] End of Index.php
+[2013-09-12 20:43:03.4081] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:43:27.9067] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:43:27.9067] Start in Index.php
+[2013-09-12 20:43:27.9068] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:43:28.0148] End of Index.php
+[2013-09-12 20:43:28.0148] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:43:31.4075] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:43:31.4075] Start in Index.php
+[2013-09-12 20:43:31.4076] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:43:31.5182] End of Index.php
+[2013-09-12 20:43:31.5183] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:43:54.256] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:43:54.256] Start in Index.php
+[2013-09-12 20:43:54.256] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:43:54.3574] End of Index.php
+[2013-09-12 20:43:54.3574] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:43:57.4329] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:43:57.4329] Start in Index.php
+[2013-09-12 20:43:57.4329] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:43:57.5372] End of Index.php
+[2013-09-12 20:43:57.5372] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:45:14.6044] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:45:14.6045] Start in Index.php
+[2013-09-12 20:45:14.6045] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:45:14.7155] End of Index.php
+[2013-09-12 20:45:14.7155] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:45:17.8334] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:45:17.8334] Start in Index.php
+[2013-09-12 20:45:17.8334] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:45:17.9417] End of Index.php
+[2013-09-12 20:45:17.9418] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:45:48.9742] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:45:48.9742] Start in Index.php
+[2013-09-12 20:45:48.9742] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:45:49.0835] End of Index.php
+[2013-09-12 20:45:49.0835] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:45:52.2515] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:45:52.2515] Start in Index.php
+[2013-09-12 20:45:52.2515] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:45:52.3521] End of Index.php
+[2013-09-12 20:45:52.3521] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:46:04.7667] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:46:04.7668] Start in Index.php
+[2013-09-12 20:46:04.7668] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:46:04.8741] End of Index.php
+[2013-09-12 20:46:04.8741] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:46:08.1311] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:46:08.1311] Start in Index.php
+[2013-09-12 20:46:08.1312] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:46:08.2271] End of Index.php
+[2013-09-12 20:46:08.2271] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:46:45.4052] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:46:45.4052] Start in Index.php
+[2013-09-12 20:46:45.4053] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:46:45.5186] End of Index.php
+[2013-09-12 20:46:45.5186] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:46:48.5159] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:46:48.516] Start in Index.php
+[2013-09-12 20:46:48.516] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:46:48.624] End of Index.php
+[2013-09-12 20:46:48.624] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:46:49.6076] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:46:49.6077] Start in Index.php
+[2013-09-12 20:46:49.6077] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:46:49.7176] End of Index.php
+[2013-09-12 20:46:49.7177] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:46:51.7293] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:46:51.7294] Start in Index.php
+[2013-09-12 20:46:51.7294] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:46:51.8262] End of Index.php
+[2013-09-12 20:46:51.8263] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:47:03.9044] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:47:03.9044] Start in Index.php
+[2013-09-12 20:47:03.9044] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:47:04.0096] End of Index.php
+[2013-09-12 20:47:04.0097] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:47:06.9258] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:47:06.9258] Start in Index.php
+[2013-09-12 20:47:06.9258] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:47:07.0321] End of Index.php
+[2013-09-12 20:47:07.0321] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:48:33.9175] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:48:33.9175] Start in Index.php
+[2013-09-12 20:48:33.9175] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:48:34.0139] End of Index.php
+[2013-09-12 20:48:34.0139] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:48:37.1615] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:48:37.1615] Start in Index.php
+[2013-09-12 20:48:37.1616] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:48:37.2604] End of Index.php
+[2013-09-12 20:48:37.2604] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:49:06.11] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:49:06.11] Start in Index.php
+[2013-09-12 20:49:06.11] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:49:06.2198] End of Index.php
+[2013-09-12 20:49:06.2198] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:49:09.2309] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:49:09.2309] Start in Index.php
+[2013-09-12 20:49:09.2309] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:49:09.3367] End of Index.php
+[2013-09-12 20:49:09.3368] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:49:58.7865] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:49:58.7866] Start in Index.php
+[2013-09-12 20:49:58.7866] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:49:58.8993] End of Index.php
+[2013-09-12 20:49:58.8993] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:50:02.0283] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:50:02.0284] Start in Index.php
+[2013-09-12 20:50:02.0284] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:50:02.1356] End of Index.php
+[2013-09-12 20:50:02.1356] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:50:49.1256] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:50:49.1257] Start in Index.php
+[2013-09-12 20:50:49.1257] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:50:49.2296] End of Index.php
+[2013-09-12 20:50:49.2296] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:50:52.4108] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:50:52.4108] Start in Index.php
+[2013-09-12 20:50:52.4108] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:50:52.506] End of Index.php
+[2013-09-12 20:50:52.506] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:50:55.656] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:50:55.6561] Start in Index.php
+[2013-09-12 20:50:55.6561] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:50:55.7597] End of Index.php
+[2013-09-12 20:50:55.7598] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:50:58.4542] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:50:58.4542] Start in Index.php
+[2013-09-12 20:50:58.4542] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:50:58.5503] End of Index.php
+[2013-09-12 20:50:58.5504] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:51:36.0312] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:51:36.0313] Start in Index.php
+[2013-09-12 20:51:36.0313] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:51:36.136] End of Index.php
+[2013-09-12 20:51:36.136] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:51:39.2514] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:51:39.2514] Start in Index.php
+[2013-09-12 20:51:39.2514] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:51:39.3603] End of Index.php
+[2013-09-12 20:51:39.3604] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:53:15.5074] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:53:15.5074] Start in Index.php
+[2013-09-12 20:53:15.5074] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:53:15.6092] End of Index.php
+[2013-09-12 20:53:15.6092] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:53:18.8324] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:53:18.8325] Start in Index.php
+[2013-09-12 20:53:18.8325] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:53:18.9326] End of Index.php
+[2013-09-12 20:53:18.9327] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:54:07.3753] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:54:07.3754] Start in Index.php
+[2013-09-12 20:54:07.3754] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:54:07.4905] End of Index.php
+[2013-09-12 20:54:07.4905] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:54:10.8678] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:54:10.8679] Start in Index.php
+[2013-09-12 20:54:10.8679] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:54:10.9661] End of Index.php
+[2013-09-12 20:54:10.9661] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:56:11.419] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:56:11.419] Start in Index.php
+[2013-09-12 20:56:11.4191] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:56:23.0754] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:56:23.0754] Start in Index.php
+[2013-09-12 20:56:23.0755] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:56:28.6682] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:56:28.6682] Start in Index.php
+[2013-09-12 20:56:28.6683] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:56:28.7795] End of Index.php
+[2013-09-12 20:56:28.7795] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:56:32.0514] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:56:32.0514] Start in Index.php
+[2013-09-12 20:56:32.0514] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:56:32.1596] End of Index.php
+[2013-09-12 20:56:32.1597] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:56:51.5798] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:56:51.5798] Start in Index.php
+[2013-09-12 20:56:51.5799] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:56:51.679] End of Index.php
+[2013-09-12 20:56:51.679] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:56:54.891] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:56:54.891] Start in Index.php
+[2013-09-12 20:56:54.891] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:56:54.9976] End of Index.php
+[2013-09-12 20:56:54.9976] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:57:12.4213] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:57:12.4214] Start in Index.php
+[2013-09-12 20:57:12.4214] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:57:12.531] End of Index.php
+[2013-09-12 20:57:12.5311] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:57:15.5759] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:57:15.5759] Start in Index.php
+[2013-09-12 20:57:15.5759] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:57:15.6755] End of Index.php
+[2013-09-12 20:57:15.6756] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:57:29.3536] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:57:29.3536] Start in Index.php
+[2013-09-12 20:57:29.3537] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:57:29.4624] End of Index.php
+[2013-09-12 20:57:29.4624] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:57:32.4926] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:57:32.4927] Start in Index.php
+[2013-09-12 20:57:32.4927] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:57:32.6042] End of Index.php
+[2013-09-12 20:57:32.6043] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:57:47.423] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:57:47.4231] Start in Index.php
+[2013-09-12 20:57:47.4231] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:57:47.5277] End of Index.php
+[2013-09-12 20:57:47.5277] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:57:51.0309] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:57:51.0309] Start in Index.php
+[2013-09-12 20:57:51.0309] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:57:51.1276] End of Index.php
+[2013-09-12 20:57:51.1277] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:59:07.1992] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:59:07.1993] Start in Index.php
+[2013-09-12 20:59:07.1993] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:59:07.3316] End of Index.php
+[2013-09-12 20:59:07.3316] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:59:10.8403] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:59:10.8403] Start in Index.php
+[2013-09-12 20:59:10.8403] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:59:10.9448] End of Index.php
+[2013-09-12 20:59:10.9448] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 20:59:52.0953] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:59:52.0953] Start in Index.php
+[2013-09-12 20:59:52.0953] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 20:59:52.1948] End of Index.php
+[2013-09-12 20:59:52.1949] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 20:59:55.3947] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 20:59:55.3947] Start in Index.php
+[2013-09-12 20:59:55.3947] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 20:59:55.5006] End of Index.php
+[2013-09-12 20:59:55.5006] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:00:27.6154] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:00:27.6155] Start in Index.php
+[2013-09-12 21:00:27.6155] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:00:27.724] End of Index.php
+[2013-09-12 21:00:27.724] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:00:30.7249] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:00:30.7249] Start in Index.php
+[2013-09-12 21:00:30.7249] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:00:30.8268] End of Index.php
+[2013-09-12 21:00:30.8269] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:00:31.9646] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:00:31.9647] Start in Index.php
+[2013-09-12 21:00:31.9647] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:00:32.0785] End of Index.php
+[2013-09-12 21:00:32.0786] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:00:34.8308] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:00:34.8309] Start in Index.php
+[2013-09-12 21:00:34.8309] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:00:34.9344] End of Index.php
+[2013-09-12 21:00:34.9344] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:00:52.8055] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:00:52.8055] Start in Index.php
+[2013-09-12 21:00:52.8055] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:00:52.9097] End of Index.php
+[2013-09-12 21:00:52.9097] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:00:55.9345] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:00:55.9346] Start in Index.php
+[2013-09-12 21:00:55.9346] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:00:56.0406] End of Index.php
+[2013-09-12 21:00:56.0406] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:01:53.3207] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:01:53.3207] Start in Index.php
+[2013-09-12 21:01:53.3207] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:01:53.4158] End of Index.php
+[2013-09-12 21:01:53.4159] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:01:56.657] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:01:56.6571] Start in Index.php
+[2013-09-12 21:01:56.6571] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:01:56.7601] End of Index.php
+[2013-09-12 21:01:56.7601] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:02:23.4877] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:02:23.4878] Start in Index.php
+[2013-09-12 21:02:23.4878] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:02:23.5961] End of Index.php
+[2013-09-12 21:02:23.5962] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:02:26.7495] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:02:26.7495] Start in Index.php
+[2013-09-12 21:02:26.7495] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:02:26.8561] End of Index.php
+[2013-09-12 21:02:26.8562] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:03:02.8222] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:03:02.8222] Start in Index.php
+[2013-09-12 21:03:02.8223] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:03:02.9294] End of Index.php
+[2013-09-12 21:03:02.9294] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:03:06.0602] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:03:06.0603] Start in Index.php
+[2013-09-12 21:03:06.0603] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:03:06.1681] End of Index.php
+[2013-09-12 21:03:06.1681] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:04:48.1352] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:04:48.1352] Start in Index.php
+[2013-09-12 21:04:48.1352] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:04:48.2536] End of Index.php
+[2013-09-12 21:04:48.2536] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:04:49.3332] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:04:49.3332] Start in Index.php
+[2013-09-12 21:04:49.3333] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:04:49.4435] End of Index.php
+[2013-09-12 21:04:49.4435] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:04:52.662] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:04:52.6621] Start in Index.php
+[2013-09-12 21:04:52.6621] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:04:52.7751] End of Index.php
+[2013-09-12 21:04:52.7752] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:05:27.8678] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:05:27.8679] Start in Index.php
+[2013-09-12 21:05:27.8679] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:05:27.9179] End of Index.php
+[2013-09-12 21:05:27.918] Finishing log sequence (Using 5.38MB now, peaked at 5.75MB)
+
+[2013-09-12 21:05:27.9615] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:05:27.9615] Start in Index.php
+[2013-09-12 21:05:27.9616] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:05:28.0556] End of Index.php
+[2013-09-12 21:05:28.0556] Finishing log sequence (Using 8.84MB now, peaked at 9.62MB)
+
+[2013-09-12 21:05:30.4566] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:05:30.4566] Start in Index.php
+[2013-09-12 21:05:30.4567] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:05:30.5532] End of Index.php
+[2013-09-12 21:05:30.5533] Finishing log sequence (Using 8.22MB now, peaked at 9.09MB)
+
+[2013-09-12 21:05:56.5579] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:05:56.558] Start in Index.php
+[2013-09-12 21:05:56.558] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:05:56.6859] End of Index.php
+[2013-09-12 21:05:56.686] Finishing log sequence (Using 9.93MB now, peaked at 10.70MB)
+
+[2013-09-12 21:05:59.5376] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:05:59.5377] Start in Index.php
+[2013-09-12 21:05:59.5377] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:05:59.6425] End of Index.php
+[2013-09-12 21:05:59.6425] Finishing log sequence (Using 9.27MB now, peaked at 10.14MB)
+
+[2013-09-12 21:06:05.5106] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:06:05.5107] Start in Index.php
+[2013-09-12 21:06:05.5107] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:06:05.6144] End of Index.php
+[2013-09-12 21:06:05.6144] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:06:08.6567] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:06:08.6568] Start in Index.php
+[2013-09-12 21:06:08.6568] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:06:08.7644] End of Index.php
+[2013-09-12 21:06:08.7644] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:06:14.9411] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:06:14.9411] Start in Index.php
+[2013-09-12 21:06:14.9411] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:06:15.0683] End of Index.php
+[2013-09-12 21:06:15.0683] Finishing log sequence (Using 9.87MB now, peaked at 10.84MB)
+
+[2013-09-12 21:06:15.2383] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:06:15.2384] Start in Index.php
+[2013-09-12 21:06:15.2384] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:06:15.3238] End of Index.php
+[2013-09-12 21:06:15.3238] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 21:06:16.7145] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:06:16.7146] Start in Index.php
+[2013-09-12 21:06:16.7146] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:06:16.8268] End of Index.php
+[2013-09-12 21:06:16.8269] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:06:18.8676] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:06:18.8677] Start in Index.php
+[2013-09-12 21:06:18.8677] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:06:18.9681] End of Index.php
+[2013-09-12 21:06:18.9681] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:27:42.2268] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:27:42.2268] Start in Index.php
+[2013-09-12 21:27:42.2268] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:27:42.3387] End of Index.php
+[2013-09-12 21:27:42.3387] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:27:45.6891] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:27:45.6892] Start in Index.php
+[2013-09-12 21:27:45.6892] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:27:45.7946] End of Index.php
+[2013-09-12 21:27:45.7946] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:33:06.2215] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:06.2216] Start in Index.php
+[2013-09-12 21:33:06.2216] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:33:06.4203] End of Index.php
+[2013-09-12 21:33:06.4203] Finishing log sequence (Using 12.15MB now, peaked at 12.77MB)
+
+[2013-09-12 21:33:07.3584] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:07.3585] Start in Index.php
+[2013-09-12 21:33:07.3585] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:33:07.4521] End of Index.php
+[2013-09-12 21:33:07.4521] Finishing log sequence (Using 8.87MB now, peaked at 9.37MB)
+
+[2013-09-12 21:33:07.6192] ==== Starting log sequence using 0.36MB of memory ====
+[2013-09-12 21:33:07.6193] Start in Index.php
+[2013-09-12 21:33:07.6193] Finishing log sequence (Using 0.00MB now, peaked at 0.37MB)
+
+[2013-09-12 21:33:07.6841] End of Index.php
+[2013-09-12 21:33:07.6841] Finishing log sequence (Using 6.63MB now, peaked at 7.04MB)
+
+[2013-09-12 21:33:07.7056] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:07.7056] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:07.7056] Start in Index.php
+[2013-09-12 21:33:07.7056] Start in Index.php
+[2013-09-12 21:33:07.7056] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:07.7056] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:07.7857] End of Index.php
+[2013-09-12 21:33:07.7858] End of Index.php
+[2013-09-12 21:33:07.7858] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 21:33:07.7858] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 21:33:07.8719] ==== Starting log sequence using 0.35MB of memory ====
+[2013-09-12 21:33:07.8719] Start in Index.php
+[2013-09-12 21:33:07.872] Finishing log sequence (Using 0.00MB now, peaked at 0.36MB)
+
+[2013-09-12 21:33:07.9394] End of Index.php
+[2013-09-12 21:33:07.9394] Finishing log sequence (Using 7.26MB now, peaked at 7.63MB)
+
+[2013-09-12 21:33:10.0838] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:10.0838] Start in Index.php
+[2013-09-12 21:33:10.0838] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:10.1882] End of Index.php
+[2013-09-12 21:33:10.1882] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:33:34.7099] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:34.71] Start in Index.php
+[2013-09-12 21:33:34.71] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:34.8163] End of Index.php
+[2013-09-12 21:33:34.8164] Finishing log sequence (Using 9.87MB now, peaked at 10.84MB)
+
+[2013-09-12 21:33:35.0713] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:35.0713] Start in Index.php
+[2013-09-12 21:33:35.0713] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:35.1513] End of Index.php
+[2013-09-12 21:33:35.1528] Finishing log sequence (Using 7.76MB now, peaked at 8.70MB)
+
+[2013-09-12 21:33:38.6267] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:38.6268] Start in Index.php
+[2013-09-12 21:33:38.6268] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:38.7356] End of Index.php
+[2013-09-12 21:33:38.7356] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:33:41.9687] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:41.9688] Start in Index.php
+[2013-09-12 21:33:41.9688] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:42.0762] End of Index.php
+[2013-09-12 21:33:42.0762] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:33:44.3141] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:44.3142] Start in Index.php
+[2013-09-12 21:33:44.3142] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:44.4142] End of Index.php
+[2013-09-12 21:33:44.4143] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:33:51.0861] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:51.0862] Start in Index.php
+[2013-09-12 21:33:51.0862] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:51.2293] End of Index.php
+[2013-09-12 21:33:51.2293] Finishing log sequence (Using 9.00MB now, peaked at 9.60MB)
+
+[2013-09-12 21:33:54.0052] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:33:54.0052] Start in Index.php
+[2013-09-12 21:33:54.0052] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:33:54.1129] End of Index.php
+[2013-09-12 21:33:54.113] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:34:05.1865] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:34:05.1866] Start in Index.php
+[2013-09-12 21:34:05.1866] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:34:05.2728] End of Index.php
+[2013-09-12 21:34:05.2729] Finishing log sequence (Using 7.96MB now, peaked at 8.91MB)
+
+[2013-09-12 21:34:07.9159] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:34:07.9159] Start in Index.php
+[2013-09-12 21:34:07.9159] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:34:08.021] End of Index.php
+[2013-09-12 21:34:08.021] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:34:15.15] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:34:15.1501] Start in Index.php
+[2013-09-12 21:34:15.1501] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:34:15.2341] End of Index.php
+[2013-09-12 21:34:15.2341] Finishing log sequence (Using 7.90MB now, peaked at 8.83MB)
+
+[2013-09-12 21:34:17.5033] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:34:17.5033] Start in Index.php
+[2013-09-12 21:34:17.5033] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:34:17.6001] End of Index.php
+[2013-09-12 21:34:17.6001] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)
+
+[2013-09-12 21:34:22.6713] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:34:22.6713] Start in Index.php
+[2013-09-12 21:34:22.6713] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:34:22.7782] End of Index.php
+[2013-09-12 21:34:22.7782] Finishing log sequence (Using 9.85MB now, peaked at 10.62MB)
+
+[2013-09-12 21:34:25.1251] ==== Starting log sequence using 0.34MB of memory ====
+[2013-09-12 21:34:25.1251] Start in Index.php
+[2013-09-12 21:34:25.1251] Finishing log sequence (Using 0.00MB now, peaked at 0.35MB)
+
+[2013-09-12 21:34:25.2285] End of Index.php
+[2013-09-12 21:34:25.2286] Finishing log sequence (Using 9.19MB now, peaked at 10.06MB)

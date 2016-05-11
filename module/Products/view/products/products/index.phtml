@@ -1,0 +1,27 @@
+<div class="row">
+    <?php foreach ($products as $productsData) { ?>
+       <!-- <a class="products-links" href="<?php /*echo $this->url('products', array('action'=>'viewproduct', 'id'=> $productsData->product_id ));*/?>">-->
+        <input class="product_url" type="hidden" value="">
+            <div class="panel panel-default product-panel" data-url="<?php echo $this->url('products', array('action'=>'viewproduct', 'id'=> $productsData->product_id ));?>">
+                <div class="panel-body">
+                    <div class="col-lg-4">
+                        <div class="panel">
+                        <img class="product-thumbnail" src="<?php echo ($this->escapeHtml($productsData->product_thumbnail))?>">
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="row">
+                            Product Name : <?php echo $this->escapeHtml($productsData->product_name);?>
+                        </div>
+                        <div class="row">
+                            Product Description : <?php echo $this->escapeHtml($productsData->product_desc);?>
+                        </div>
+                        <div class="row">
+                            Price : <?php echo $this->escapeHtml($productsData->price);?>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       <!-- </a>-->
+    <?php } ?>
+</div>

@@ -1,0 +1,14 @@
+<div class="panel panel-default">
+    <div class="log-in">
+        <?php
+        $login = $this->login;
+        $login->setAttribute('action', $this->url('customer', array('action' => 'login')));
+        $login->prepare();
+        echo $this->form()->openTag($login);
+        echo $this->formRow($login->get('email')); ?><br><?php
+        echo $this->formRow($login->get('password')); ?><br><?php
+        echo $this->formSubmit($login->get('submit'));
+        echo $this->form()->closeTag();
+        ?>
+    </div>
+</div>

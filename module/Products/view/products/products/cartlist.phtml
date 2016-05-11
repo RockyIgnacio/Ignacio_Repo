@@ -1,0 +1,89 @@
+<?php
+$totalPrice = 0;
+$allTotalWeight = 0;
+foreach ($cartItems as $cartItem) {
+    //var_dump($cartItem);
+
+    ?>
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="row">
+                <h3>Product</h3>
+            </div>
+        </div>
+        <div class="col-lg-4">
+        </div>
+        <div class="col-lg-2">
+            <div class="row">
+                <h3>Quantity</h3>
+            </div>
+        </div>
+        <div class="col-lg-2">
+            <div class="row">
+                <h3>Price</h3>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="col-lg-4">
+                    <div class="panel">
+                        <img class="product-thumbnail" src="<?php echo $this->basePath($this->escapeHtml($cartItem->product_thumbnail))?>">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="row">
+                        <strong><?php echo $this->escapeHtml($cartItem->product_name);?></strong>
+                    </div>
+                    <div class="row">
+                        <span><?php echo $this->escapeHtml($cartItem->product_desc);?></span>
+                    </div>
+                    <div class="row">
+                        <span>$<?php echo $this->escapeHtml($cartItem->unit_price);?> each</span>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <div class="row">
+                        <span class="cart-info"><?php echo $this->escapeHtml($cartItem->qty);?></span>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <div class="row">
+                        <span class="cart-info">$<?php echo $this->escapeHtml($cartItem->price);?></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <?php
+    $totalPrice = $totalPrice + $cartItem->price;
+    $allTotalWeight = $allTotalWeight + $cartItem->weight;
+}
+    ?>
+    <div class="row">
+        <div class="col-lg-4">
+        </div>
+        <div class="col-lg-4">
+        </div>
+        <div class="col-lg-4">
+            <div class="row">
+                <span>Subtotal <?php echo $this->escapeHtml($totalPrice);?></span>
+            </div>
+            <div class="row">
+                <span>Shipping 0</span>
+            </div>
+        <?php
+        //echo 'total weight per cart '.$allTotalWeight;
+
+        ?>
+            <div class="row">
+                <form action="<?php echo $this->url('products', array('action'=>'checksession')) ?>" method="post">
+                    <input type="hidden" name="allTotalWeight" value="<?php echo $allTotalWeight; ?>">
+                    <input class="form-control check-out-button btn-primary" type="submit" name="checkout" value="Checkout">
+                </form>
+            </div>
+        </div>
+    </div>
+<?php

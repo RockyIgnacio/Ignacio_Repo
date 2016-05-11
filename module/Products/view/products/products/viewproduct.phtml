@@ -1,0 +1,68 @@
+<div class="row">
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="col-lg-5">
+            <img class="product-image" src="<?php echo $this->basePath($this->escapeHtml($product->product_image))?>">
+        </div>
+        <div class="col-lg-7 product-info">
+            <div class="panel panel-default">
+
+                    <div class="panel-heading">
+                        <div class="prod-name">
+                           <?php echo $this->escapeHtml($product->product_name);?>
+                        </div>
+                    </div>
+                <form action="<?php echo $this->url('products', array('action'=>'addcart'));?>" method="post">
+                    <input type="hidden" name="id" id="prod_id" value="<?php echo $this->escapeHtml($product->product_id);?>">
+                    <input type="hidden" id="prod_stock_qty" value="<?php echo $this->escapeHtml($product->stock_qty);?>">
+                    <input type="hidden" id="prod_weight" value="<?php echo $this->escapeHtml($product->weight);?>">
+                    <div class="panel-body product-desc">
+                        <div class="row product-field">
+                            <div class="col-lg-5">
+                                <span class="prod-text">Product Description :</span>
+                            </div>
+                            <div class="col-lg-7">
+                                <?php echo $this->escapeHtml($product->product_desc);?>
+                            </div>
+                        </div>
+                        <div class="row product-field">
+                            <div class="col-lg-5">
+                                <span class="prod-text">Unit price :</span>
+                            </div>
+                            <div class="col-lg-7">
+                                <input type="text" id="unit_price" value="<?php echo $this->escapeHtml($product->price);?>" disabled>
+                            </div>
+                        </div>
+
+                        <div class="row product-field">
+                            <div class="col-lg-5">
+                                <span class="prod-text">Quantity :</span>
+                            </div>
+                            <div class="col-lg-7">
+                                <!--<input type="text" id="quantity" value=1><br><span id="errmsg"></span>-->
+                                <input id="quantity" type="number" name="quantity" value="1" min="1" max="<?php echo $this->escapeHtml($product->stock_qty);?>" class="form-control" placeholder="Type quantity here..."><span id="errmsg"></span>
+                            </div>
+                        </div>
+                        <div class="row product-field">
+                            <div class="col-lg-5">
+                                <span class="prod-text">Price :</span>
+                            </div>
+                            <div class="col-lg-7">
+                                <input type="text" id="price" value="<?php echo $this->escapeHtml($product->price);?>" disabled>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-footer">
+                        <div class="row">
+                            <input class="pull-right add-to-cart-button" type="submit" value="Add to cart" >
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+

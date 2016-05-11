@@ -1,0 +1,72 @@
+<?php echo $this->headScript()
+    ->prependFile($this->basePath('js/bootstrap.min.js'))
+    ->prependFile($this->basePath('js/jquery.min.js'))
+    ->prependFile($this->basePath('js/respond.min.js'), 'text/javascript', array('conditional' => 'lt IE 9',))
+    ->prependFile($this->basePath('js/html5shiv.min.js'),   'text/javascript', array('conditional' => 'lt IE 9',))
+; ?>
+<script>
+    $(document).ready(function () {
+        //called when key is pressed in textbox
+        $("#quantity").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                $("#errmsg").html("* Digits Only").show().fadeOut(2000);
+                return false;
+            }
+        });
+    });
+
+    $('#quantity').focus(function(){
+        $(this).select()
+    })
+
+
+    function validate(){
+        var totalPrice = $('#unit_price').val() * $('#quantity').val();
+        $('#price').val(totalPrice.toFixed(2));
+
+        if ($('#price').val() <= 0) {
+            $('#price').val($('#unit_price').val());
+            $('#quantity').val(1);
+        }
+
+        if (Number($('#quantity').val()) > Number($('#prod_stock_qty').val())) {
+            $("#errmsg").html("This item has only "+$('#prod_stock_qty').val()+" pc/s").show().fadeOut(3000);
+            $('#price').val($('#unit_price').val());
+            $('#quantity').val(1);
+        }
+    }
+
+    $('#quantity').keyup(function(){
+        validate();
+    })
+
+    $('#quantity').change(function(){
+        validate();
+    })
+
+    $('#Cpass').change(function(){
+        if($('#pass').val() != $('#Cpass').val()) {
+            alert("Password Not Match");
+            $('#pass').val("");
+            $('#Cpass').val("");
+        }
+    })
+
+    
+    
+    
+    $('.product-panel').on('click', function()
+    {
+       var urls = $(this).attr('data-url');
+        window.location.href = "http://local.zend.com"+urls;
+    })
+
+
+
+</script>
+
+
+
+

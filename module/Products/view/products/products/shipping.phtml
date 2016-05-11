@@ -1,0 +1,47 @@
+<?php
+    $totalWeightPerCart = 0;
+    foreach($cart as $cartCartItemsWeight){
+        echo 'qty '.$cartCartItemsWeight->qty;?><br><br><?php
+
+        //echo 'weight '.$totalWeight;?><br><br><?php
+        echo 'weight '.$cartCartItemsWeight->weight;?><br><br><?php
+
+        $totalWeightPerCart = $totalWeightPerCart + $cartCartItemsWeight->weight;
+    }
+
+        echo 'total weight '.$totalWeightPerCart;?><br><br><?php
+
+        echo '<br><br>Shipping Rate -> ' . $groundShipingRate[0][0]->shipping_rate . '<br><br>';
+        echo '<br><br>Shipping Rate Add -> ' . $groundShipingRate[1] . '<br><br>';
+
+        echo '<br><br>Shipping Rate expedited -> ' . $expeditedShipingRate[0][0]->shipping_rate . '<br><br>';
+        echo '<br><br>Shipping Rate expedited -> ' . $expeditedShipingRate[1] . '<br><br>';
+
+        $totalItemShippingGround = $groundShipingRate[0][0]->shipping_rate + $groundShipingRate[1];
+        $totalItemShippingExpedited = $expeditedShipingRate[0][0]->shipping_rate + $expeditedShipingRate[1];
+
+    $form->setAttribute('action', $this->url('cart', array('action' => 'addcartprocess')));
+    $form->prepare();
+    echo $this->form()->openTag($form);
+    echo $this->formRow($form->get('shipping_name'));?><br><?php
+    echo $this->formRow($form->get('shipping_address1'));?><br><?php
+    echo $this->formRow($form->get('shipping_address2'));?><br><?php
+    echo $this->formRow($form->get('shipping_address3'));?><br><?php
+    echo $this->formRow($form->get('shipping_city'));?><br><?php
+    echo $this->formRow($form->get('shipping_state'));?><br><?php
+    echo $this->formRow($form->get('shipping_country'));?><br><?php
+    ?>
+    <input type="hidden" value="$totalWeightPerCart">
+    <input type="radio" name="shippingRate" value="<?php echo $this->escapeHtml($totalItemShippingGround);?>">  Ground Shipping <span>$<?php echo $this->escapeHtml($totalItemShippingGround);?></span><br>
+    <input type="radio" name="shippingRate" value="<?php echo $this->escapeHtml($totalItemShippingExpedited);?>">  Expedited Shipping <span>$<?php echo $this->escapeHtml($totalItemShippingExpedited);?></span>
+
+    <?php
+
+    echo $this->formSubmit($form->get('continue'));
+    echo $this->form()->closeTag();
+
+    ?>
+
+    <?php
+
+

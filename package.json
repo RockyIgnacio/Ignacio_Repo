@@ -1,0 +1,22 @@
+{
+  "name": "PMESite",
+  "version": "1.8.0",
+  "description": "PME ZF2 Skeleton Site",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.uprinting.com:yp-team/pme-site.git"
+  },
+  "keywords": [
+    "YPL",
+    "Site",
+    "ZF2"
+  ],
+  "author": "YP Team",
+  "license": "DRI License 2014",
+  "devDependencies": {
+    "bower": "^1.3.5"
+  }
+}
