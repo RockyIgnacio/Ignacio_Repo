@@ -15,10 +15,10 @@ use Zend\View\Model\ViewModel;
 class CustomerController extends AbstractActionController
 {
 
-    public function sessionNetwork($customerName)
+/*    public function sessionNetwork($customerName)
     {
 
-        /*$sm = $this->getServiceLocator();
+        $sm = $this->getServiceLocator();
         $Container = $sm->get('Container');
         $first_name = $Container->offsetGet('first_name');
 
@@ -29,8 +29,8 @@ class CustomerController extends AbstractActionController
         );
 
 
-        return $viewModel;*/
-    }
+        return $viewModel;
+    }*/
 
     public function loginAction()
     {
